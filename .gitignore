@@ -1,0 +1,5 @@
+# personal configuration file for vscode
+.vscode
+
+# os specific
+desktop.ini
